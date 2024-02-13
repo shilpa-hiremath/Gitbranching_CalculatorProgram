@@ -29,7 +29,7 @@ public class calculator {
         // float value entered by the user and assigns it to the variables `num1` and `num2`
         // respectively.
 
-        // commenting user input to run jenkins job
+        // commenting user input to run jenkins job 
         float num1 = 20;//in.nextFloat();
         float num2 = 30;//in.nextFloat();
 
